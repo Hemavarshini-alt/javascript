@@ -1,0 +1,12 @@
+var a=10
+var b=7
+console.log("before swaping")
+console.log("A=",a)
+console.log("B=",b)
+a=a+b
+b=a-b
+a=a-b
+console.log("after swaping")
+console.log("A=",a)
+console.log("B=",b)
+

@@ -1,0 +1,26 @@
+var a=6
+var b='cycle'
+if (a==0)
+{
+    console.log("no way to ride",b)
+}
+else if(a==1)
+{
+    console.log('to ride with two wheeler',b)
+}
+else if(a==2)
+{
+    console.log("three wheeler,bike and auto",b)
+}
+else if(a==3)
+{
+    console.log("low weight transport,bus..",b)
+}
+else if(a==4)
+{
+    console.log("heavy weight transport,load..",b)
+}
+else
+{
+    console.log("All transport")
+}

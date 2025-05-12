@@ -1,0 +1,9 @@
+const five= 23
+if(five%5==0)
+{
+console.log("good",five)
+}
+else
+{
+console.log("bad",five)
+}

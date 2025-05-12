@@ -1,0 +1,15 @@
+var a=23
+console.log("Enter your age")
+console.log(a)
+
+if (a>=18)
+{
+console.log("to vote and your age is",a);
+    
+}
+else
+{
+   console.log("not vote and wait and your age is",a)
+}
+var age=10
+console.log(`your age ${age} perfect to vote`)
